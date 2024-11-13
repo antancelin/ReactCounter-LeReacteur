@@ -86,7 +86,7 @@ button .display-none:hover {
 
 .count .display-none:hover {
   background-color: white;
-  cursor: default;
+  cursor: auto;
 }
 
 /* FOOTER */
